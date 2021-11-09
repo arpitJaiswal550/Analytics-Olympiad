@@ -16,4 +16,5 @@ Outlet_Type: Type of the outlet
 Sales: Total sales from the outlet
 Train: 87864 rows x 09 columns
 Test: 37656 rows x 09 columns
+
 ![a](https://user-images.githubusercontent.com/56504951/140882962-423221d9-716b-43b0-9e42-9c45eb399be3.PNG)
